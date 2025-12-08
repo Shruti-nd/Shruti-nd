@@ -1,5 +1,11 @@
 # 💫 About Me:
-# Hi, I'm Shruti 👋  <br>Machine Learning • Data Science • Data Analytics • Data Visualization<br><br>- 📊 Skilled in data preprocessing, ML modelling, visualization, and statistical analysis  <br>- 🤖 Interested in ML engineering, applied AI, healthcare AI, and analytical research  <br>- 📈 Building strong expertise in EDA, predictive modelling, and insight generation
+# Hi, I'm Shruti 👋  <small>
+Machine Learning • Data Science • Data Analytics • Data Visualization  
+<br>
+- 📊 Skilled in data preprocessing, ML modelling, visualization, and statistical analysis  
+- 🤖 Interested in ML engineering, applied AI, healthcare AI, and analytical research  
+- 📈 Building strong expertise in EDA, predictive modelling, and insight generation  
+</small>
 
 
 ## 🌐 Socials:
