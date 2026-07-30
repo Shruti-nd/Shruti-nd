@@ -50,6 +50,8 @@ I often build a working demo before pitching an idea.
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=Shruti-nd&label=Profile%20Views&color=blue&style=for-the-badge)
+
 ![](https://komarev.com/ghpvc/?username=Shruti-nd&icon=0&color=0)
 
  
