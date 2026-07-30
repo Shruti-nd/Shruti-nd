@@ -13,19 +13,6 @@ Open-source web projects
 AI-powered applications  
 Developer tools and SaaS products
 
-### 🤝 I'm looking for help with
-
-System Design  
-Cloud & DevOps  
-Scalable backend architecture
-
-### 🌱 I'm currently learning
-
-Advanced Spring Boot  
-System Design  
-AI Agents & Automation  
-Cloud Technologies
-
 ### 💬 Ask me about
 
 React & Next.js  
